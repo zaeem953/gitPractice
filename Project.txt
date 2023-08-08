@@ -4,4 +4,4 @@ Technology: C#
 
 Working: Qenta
 
-FrameWork : JAVA
+FrameWork : ASP .Net Core
