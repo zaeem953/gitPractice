@@ -3,3 +3,5 @@ Project Name : gitPractice
 Technology: C#
 
 Working: Qenta
+
+FrameWork : ASP .Net Core
