@@ -1,1 +1,3 @@
 Project Name : gitPractice
+
+Technology: C#
